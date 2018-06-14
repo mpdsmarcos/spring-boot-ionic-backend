@@ -38,4 +38,4 @@ public class ClienteInsertValidator implements ConstraintValidator<ClienteInsert
 		return list.isEmpty();
 	}
 
-}
+} 
